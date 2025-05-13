@@ -1,0 +1,8 @@
+{
+    "videoCodec": "libx264",
+    "preset": "slow",
+    "bitrateVideo": "4000k",
+    "audioCodec": "aac",
+    "bitrateAudio": "128k",
+    "movflags": "+faststart"
+}
